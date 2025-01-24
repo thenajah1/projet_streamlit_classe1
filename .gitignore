@@ -1,0 +1,6 @@
+# Python venv 
+stenv
+
+.gitignore
+.streamlit
+secrets.toml
