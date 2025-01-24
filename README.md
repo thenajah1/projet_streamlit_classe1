@@ -3,7 +3,6 @@
 * Aboubacar Sidik SANOGO
 * Aminata Mah NDIAYE
 
-* 
 # Streamlit Chatbot Application
 
 This repository contains a chatbot application built with **Streamlit** and **OpenAI's API**. The project is designed to provide a simple and interactive chat interface for users, leveraging OpenAI's natural language processing capabilities.
