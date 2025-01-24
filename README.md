@@ -90,25 +90,3 @@ pip freeze > requirements.txt
 🛡️ License
 This project is licensed under the terms of the MIT License.
 
-🤝 Contributing
-Fork the repository.
-Create a feature branch (git checkout -b feature-name).
-Commit your changes (git commit -m "Add some feature").
-Push to the branch (git push origin feature-name).
-Open a pull request.
-📧 Support
-If you encounter any issues, feel free to open an issue or contact me at <your-email>.
-
-🌟 Acknowledgments
-Streamlit Documentation
-OpenAI API Documentation
-vbnet
-Copier
-Modifier
-
-### Points to Remember:
-1. Replace `<your-username>` and `<repository-name>` with the actual values from your GitHub repository.
-2. Replace `<your-email>` with your contact email if you want to include it.
-3. Test the steps locally to ensure the instructions are accurate.
-
-Let me know if you'd like adjustments or additions! 😊
